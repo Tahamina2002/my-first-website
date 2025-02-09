@@ -1,0 +1,15 @@
+#nav{
+   
+    background-color: aquamarine;
+}
+.nave{
+    background-color: blue;
+    visibility: hidden;
+}
+#hi:hover{
+    background-color: #09ff00;
+    
+}
+*body{
+    background-color: darkslategrey;
+}
